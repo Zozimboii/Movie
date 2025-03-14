@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091277268866",
+    "project_id": "pruksakorn-55116",
+    "storage_bucket": "pruksakorn-55116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091277268866:android:ee0d3167f3d43270ddd19b",
+        "android_client_info": {
+          "package_name": "com.example.pruksakorn_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FcU9H6J7XiKreUF2ISdX1ROT-ss8K3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
